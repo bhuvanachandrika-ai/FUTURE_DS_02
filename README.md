@@ -1,23 +1,7 @@
-Based on your uploaded \*\*Future Intern Task 2 – Customer Retention \& Churn Analysis\*\* dashboard, you can use the following README.md for your GitHub repository.
-
-
-
 \# Customer Retention \& Churn Analysis
-
-
-
 \## Project Overview
-
-
-
 This project analyzes customer retention and churn behavior using Power BI. The objective is to identify factors that influence customer churn and provide actionable business recommendations to improve customer retention.
-
-
-
 \## Tools Used
-
-
-
 \* Power BI Desktop
 
 \* Microsoft Excel / CSV Dataset
